@@ -9,5 +9,7 @@ https://colab.research.google.com/drive/1W7JyNWAw5aB6PEiFLg5zcnMkCjdFjCq5?usp=sh
 autores:
 
 Anderson Fedel Marques
+
 Luciano Domingues
+
 Willian Silva Barros
