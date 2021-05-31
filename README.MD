@@ -6,7 +6,7 @@ link para o projeto:
 
 https://colab.research.google.com/drive/1W7JyNWAw5aB6PEiFLg5zcnMkCjdFjCq5?usp=sharing 
 
-autores:
+Autores:
 
 Anderson Fedel Marques
 
